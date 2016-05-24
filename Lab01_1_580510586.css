@@ -1,0 +1,76 @@
+body{
+    background-color: lightblue;
+}
+h1 {
+    font-size: 40px;
+    background-color: #FFFF00;
+    color:red;
+    text-align: center;
+    border: 10px   #FFFF00;
+    padding: 10px;
+    text-align:center;
+    box-shadow: 10px 10px 5px grey;
+}
+.container{
+    background-color: #ffffff;
+    width:80%;
+    margin:auto;
+    padding: 10px
+}
+.sun{
+    background-color: red;
+}
+.mon{
+    background-color: yellow;
+}
+.tue{
+    background-color: pink;
+}
+.wed{
+    background-color: green;
+}
+.thu{
+    background-color: orange;
+}
+.fri{
+    background-color: lightblue;
+}
+.sat{
+    background-color: purple;
+}
+.day-list{
+    color #ffffff;
+    text-align: center;
+    width: 10%;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+}
+.menu-list{
+    color #ffffff;
+    margin-left:30px;
+    margin-right:25px;
+    text-align: center;
+    width: 5%;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 100px;
+    box-shadow: 2px 2px 5px grey;
+
+}
+.general{
+    background-color: lightblue;
+}
+
+.stop{
+    background-color: red;
+
+}
+.birthday{
+    background-color: green;
+}
+
+.menu-bar{
+    width: 100%;
+}
